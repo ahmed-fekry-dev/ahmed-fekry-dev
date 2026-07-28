@@ -7,12 +7,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-fekry-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-2C5364?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://drive.google.com/file/d/1T4DrQiv8VyJcJVAl_UPuG6FoijfZ9EGp/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV-2C5364?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" />
   </a>
-  <img src="https://img.shields.io/badge/Portfolio-203A43?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio (Coming Soon)" />
+  <img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio (Coming Soon)" />
 </p>
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
