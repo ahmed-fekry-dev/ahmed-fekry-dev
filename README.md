@@ -6,9 +6,13 @@
 <h3 align="center">Software Engineer | Front-End Developer | React & Next.js</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ahmed-fekry-dev">
-    <img src="https://komarev.com/ghpvc/?username=ahmed-fekry-dev&label=Profile%20views&color=00FFFF&style=flat-square" alt="ahmed-fekry-dev's profile views" />
+  <a href="https://www.linkedin.com/in/ahmed-fekry-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://drive.google.com/file/d/1T4DrQiv8VyJcJVAl_UPuG6FoijfZ9EGp/view?usp=sharing">
+    <img src="https://img.shields.io/badge/CV-2C5364?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" />
+  </a>
+  <img src="https://img.shields.io/badge/Portfolio-203A43?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio (Coming Soon)" />
 </p>
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
@@ -17,16 +21,36 @@
   <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C7BFF&center=true&vCenter=true&width=1000&lines=Building+modern+web+experiences+with+React;Crafting+clean+and+responsive+interfaces;Turning+designs+into+pixel-perfect+code" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <strong>💬 First, solve the problem. Then, write the code.</strong>
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" style="background: linear-gradient(90deg, #0F2027, #203A43, #2C5364); border-radius: 10px; padding: 18px 28px;">
+<strong>💬 "First, solve the problem. Then, write the code."</strong>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" style="background: linear-gradient(90deg, #0F2027, #203A43, #2C5364); border-radius: 10px; padding: 18px 28px;">
+<strong>⚔️ "It is better to be a warrior in a garden, than a gardener in a war."</strong>
+<br/><br/>
+<sub>— Miyamoto Musashi, <em>The Book of Five Rings</em></sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 <hr style="border: none; height: 3px; background-color: #30363d;" />
 
 ## 📌 About Me
-👨‍💻 I'm a Front-End Developer passionate about building modern, responsive web applications using React and the JavaScript ecosystem.
+I'm a Front-End Developer passionate about building modern, responsive web applications using React and the JavaScript ecosystem. 👨‍💻
 
-🚀 I enjoy creating clean, user-friendly interfaces, optimizing performance, and continuously learning new technologies to build better digital experiences.
+I enjoy creating clean, user-friendly interfaces, optimizing performance, and continuously learning new technologies to build better digital experiences. 🚀
 
 <hr style="border: none; height: 3px; background-color: #30363d;" />
 
