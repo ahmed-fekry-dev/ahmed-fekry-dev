@@ -27,12 +27,6 @@
   <img src="./assets/quote1.svg" alt="First, solve the problem. Then, write the code." />
 </p>
 
-<br/>
-
-<p align="center">
-  <img src="./assets/quote2.svg" alt="It is better to be a warrior in a garden, than a gardener in a war. — Miyamoto Musashi, The Book of Five Rings" />
-</p>
-
 </div>
 
 <hr style="border: none; height: 3px; background-color: #30363d;" />
