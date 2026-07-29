@@ -1,0 +1,16 @@
+<svg width="700" height="140" viewBox="0 0 700 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0F2027"/>
+      <stop offset="50%" stop-color="#203A43"/>
+      <stop offset="100%" stop-color="#2C5364"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="698" height="138" rx="14" ry="14" fill="url(#grad2)"/>
+  <text x="350" y="60" text-anchor="middle" font-family="'Fira Code','Segoe UI',Arial,sans-serif" font-size="21" font-weight="700" fill="#ffffff">
+    ⚔️ &quot;It is better to be a warrior in a garden, than a gardener in a war.&quot;
+  </text>
+  <text x="350" y="102" text-anchor="middle" font-family="'Fira Code','Segoe UI',Arial,sans-serif" font-size="15" fill="#c9d1d9">
+    — Miyamoto Musashi, <tspan font-style="italic">The Book of Five Rings</tspan>
+  </text>
+</svg>
