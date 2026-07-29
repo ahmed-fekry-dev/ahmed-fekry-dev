@@ -50,6 +50,8 @@ I enjoy creating clean, user-friendly interfaces, optimizing performance, and co
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ahmed-fekry-dev&theme=dracula&title=Stars,Commit,Followers,Issues,PullRequest,Repositories&margin-w=15&margin-h=15" alt="Ahmed Fekry's GitHub Trophies" />
 </p>
 
+<hr style="border: none; height: 3px; background-color: #30363d;" />
+
 ## 💻 Tech Stack
 
 <p align="center">
