@@ -23,31 +23,22 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" style="background: linear-gradient(90deg, #0F2027, #203A43, #2C5364); border-radius: 10px; padding: 18px 28px;">
-<strong>💬 "First, solve the problem. Then, write the code."</strong>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/quote1.svg" alt="First, solve the problem. Then, write the code." />
+</p>
 
 <br/>
 
-<table>
-<tr>
-<td align="center" style="background: linear-gradient(90deg, #0F2027, #203A43, #2C5364); border-radius: 10px; padding: 18px 28px;">
-<strong>⚔️ "It is better to be a warrior in a garden, than a gardener in a war."</strong>
-<br/><br/>
-<sub>— Miyamoto Musashi, <em>The Book of Five Rings</em></sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/quote2.svg" alt="It is better to be a warrior in a garden, than a gardener in a war. — Miyamoto Musashi, The Book of Five Rings" />
+</p>
 
 </div>
 
 <hr style="border: none; height: 3px; background-color: #30363d;" />
 
 ## 📌 About Me
+
 I'm a Front-End Developer passionate about building modern, responsive web applications using React and the JavaScript ecosystem. 👨‍💻
 
 I enjoy creating clean, user-friendly interfaces, optimizing performance, and continuously learning new technologies to build better digital experiences. 🚀
@@ -55,6 +46,7 @@ I enjoy creating clean, user-friendly interfaces, optimizing performance, and co
 <hr style="border: none; height: 3px; background-color: #30363d;" />
 
 ## 📊 GitHub Stats & Trophies
+
 <p align="center">
   <a href="https://github.com/ahmed-fekry-dev">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmed-fekry-dev&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="ahmed-fekry-dev's GitHub Stats" />
@@ -63,7 +55,6 @@ I enjoy creating clean, user-friendly interfaces, optimizing performance, and co
 <p align="center">
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ahmed-fekry-dev&theme=dracula&title=Stars,Commit,Followers,Issues,PullRequest,Repositories&margin-w=15&margin-h=15" alt="Ahmed Fekry's GitHub Trophies" />
 </p>
-
 
 ## 💻 Tech Stack
 
@@ -74,6 +65,7 @@ I enjoy creating clean, user-friendly interfaces, optimizing performance, and co
 <hr style="border: none; height: 3px; background-color: #30363d;" />
 
 ## 🔗 Connect with Me
+
 <p align="center">
   <a href="www.linkedin.com/in/ahmed-fekry-dev">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
