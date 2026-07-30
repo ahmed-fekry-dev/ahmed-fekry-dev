@@ -7,12 +7,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-fekry-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-2C5364?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="./assets/btn-linkedin.svg" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1T4DrQiv8VyJcJVAl_UPuG6FoijfZ9EGp/view?usp=sharing">
-    <img src="https://img.shields.io/badge/CV-2C5364?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" />
+    <img src="./assets/btn-cv.svg" alt="CV" />
   </a>
-  <img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio (Coming Soon)" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/btn-portfolio.svg" alt="Portfolio (Coming Soon)" />
 </p>
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
@@ -63,12 +65,14 @@ I enjoy creating clean, user-friendly interfaces, optimizing performance, and co
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/ahmed-fekry-dev">
+  <a href="https://www.linkedin.com/in/ahmed-fekry-dev">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/201558570363">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mail.ahmed.fekrye@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
