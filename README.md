@@ -7,14 +7,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-fekry-dev/">
-    <img src="./assets/btn-linkedin.svg" alt="LinkedIn" />
+    <img src="./assets/btn-linkedin.svg" alt="LinkedIn" width="132" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1T4DrQiv8VyJcJVAl_UPuG6FoijfZ9EGp/view?usp=sharing">
-    <img src="./assets/btn-cv.svg" alt="CV" />
+    <img src="./assets/btn-cv.svg" alt="CV" width="90" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <img src="./assets/btn-portfolio.svg" alt="Portfolio (Coming Soon)" />
+  <img src="./assets/btn-portfolio.svg" alt="Portfolio (Coming Soon)" width="150" />
 </p>
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
